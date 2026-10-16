@@ -19,6 +19,9 @@ It serves as an excellent resource for exploratory data analysis (EDA), sales pe
 * **Target Category:** Electronics
 * **Key Entities:** Products, Sales Team, Regional Markets, Revenue Metrics
 
+  Link to Jupyter Notebook in Google Colab:
+  https://colab.research.google.com/drive/1zdPR2ig9qFp6Q1gPrZvky3Ac7UITW3Mv?usp=sharing
+   
 ## 🗂️ Data Dictionary
 
 The dataset consists of the following 10 features:
